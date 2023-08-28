@@ -1,0 +1,12 @@
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\bin\Debug\net6.0\ExportarDados.deps.json
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\bin\Debug\net6.0\ExportarDados.dll
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\bin\Debug\net6.0\ExportarDados.pdb
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.csproj.AssemblyReference.cache
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.AssemblyInfoInputs.cache
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.AssemblyInfo.cs
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.dll
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\refint\ExportarDados.dll
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ExportarDados.pdb
+C:\Users\Matheus Oliveira\Desktop\ExportarDados\ExportarDados\obj\Debug\net6.0\ref\ExportarDados.dll
